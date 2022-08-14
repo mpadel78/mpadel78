@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">A passionate Full Stack Developer based in Houston, Texas.</h3>
+<h3 align="center">Software Engineer based in Houston, Texas.</h3>
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **working on Document Inventory Web application and Hawks Tracker (Shuttle Tracker)**
+- 🔭 I’m currently working on **working on Rapid Proposal web application**.
 
-- 🌱 I’m currently learning **Automation Testing, API development and Operating System.**
+- 🌱 I’m currently learning **Node.Js, GraphQL.**
 
-- 💬 Ask me about **Full Stack Development, System Design and Product Development.**
-
-- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1ocWNf9FQWt9y3w367ktBI3vvAyKemPCs/view?usp=sharing" target = "blank">Get my resume here</a>
+- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1lyt082wGOYYRMVIcSFtLPzoaKZ2jY0I4/view?usp=sharing" target = "blank">Get my resume here</a>
 <br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
