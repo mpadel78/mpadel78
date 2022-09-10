@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **working on Rapid Proposal web application and Monday.com hackathon**.
+- 🔭 I’m currently working on **working on Rapid Proposal web application and UHCL Buildings Map web application*.
 
 - 🌱 I’m currently learning **Node.Js, GraphQL.**
 
