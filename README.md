@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Software Engineer based in Houston, Texas.</h3>
+<h3 align="center">Software Engineer based in Wichita, Kansas.</h3>
 <br/>
 <br/>
 
 - 🔭 I’m currently working on **working on Rapid Proposal web application**, **Spice-MD**, and **UHCL Buildings Map web application**.
 
-- 🌱 I’m currently learning **Node.Js, GraphQL.**
+- 🌱 I’m currently learning **Node.Js, GraphQL, and Typescript.**
 
 - 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1lyt082wGOYYRMVIcSFtLPzoaKZ2jY0I4/view?usp=sharing" target = "blank">Get my resume here</a>
 <br/>
