@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **working on Rapid Proposal web application**, **Spice-MD**, and **UHCL Buildings Map web application**.
+- 🔭 I’m currently working on ** Rapid Proposal web application**, **Spice-MD**, and **UHCL Buildings Map web application**.
 
 - 🌱 I’m currently learning **Node.Js, GraphQL, and Typescript.**
 
