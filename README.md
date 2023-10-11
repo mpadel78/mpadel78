@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Software Engineer based in Wichita, Kansas.</h3>
+<h3 align="center">Mobile Application Developer based in Wichita, Kansas.</h3>
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **React Web Applications**.
-
-- 🌱 I’m currently learning **Node.Js, GraphQL, and Typescript.**
-
-- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1lyt082wGOYYRMVIcSFtLPzoaKZ2jY0I4/view?usp=sharing" target = "blank">Get my resume here</a>
 <br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
